@@ -1,5 +1,6 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FF99&lines=Hi%2C+I'm+Saheli;Statistician+%7C+ML+Researcher;Deep+Learning+Vision+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00FF99&center=true&width=500&height=60&lines=Hi,+I'm+Saheli;Statistician+%7C+ML+Researcher;Deep+Learning+Vision+Enthusiast;Always+learning+new+things!&repeat=false)](https://git.io/typing-svg)
+
 
 ---
 
