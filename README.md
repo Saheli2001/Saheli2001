@@ -1,7 +1,6 @@
-# Yo, I’m Saheli! 
+Yo, I’m Saheli! 
 
-🎓 Survived (and secretly enjoyed :P) an MSTAT degree.  
-📊 My GitHub is a lab notebook + playground + battlefield — coursework, research, and side quests all mashed up.  
+Survived (and secretly enjoyed :P) an MSTAT degree. I love coding and asking questions until you get annoyed. I also love exploring new research areas in vision , deep learning theory, machine learning and new starbucks coffee. Isn't it interesting how stats and maths builds the core of the most advance AI techs? Btw, my GitHub is a lab notebook + playground + battlefield — coursework, research, and side quests all mashed up. Feel free to explore!
 
 ---
 
@@ -12,6 +11,6 @@
 
 ---
 
-⚡ Forever chasing cleaner plots & cooler models.  
+Forever chasing cleaner plots & cooler models!! 
 
 
