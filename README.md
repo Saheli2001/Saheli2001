@@ -1,6 +1,6 @@
 
      /\_/\        ✿  
-    ( -.- )       ✿   curiosity never sleeps  
+    ( -.- )       ✿   Hi.  
     (  -  )~      ✿
   
 
